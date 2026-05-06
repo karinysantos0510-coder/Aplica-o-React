@@ -6,9 +6,9 @@ import './App.css';
 function App() {
   return (
     <BrowserRouter>
-      {/* O componente Rotas decide qual página mostrar */}
       <Rotas /> 
     </BrowserRouter>
+    // Build final verificado localmente
   );
 }
 
